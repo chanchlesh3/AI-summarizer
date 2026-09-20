@@ -82,7 +82,8 @@ langgraph
 langchain-groq
 python-dotenv
 ```
-
+##Check models 
+  you can check models you have access from the API key you choose (specifically Groq used here ) 
 ## Usage
 
 1. Paste text into the input box.
